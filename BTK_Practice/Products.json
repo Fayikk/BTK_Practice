@@ -1,0 +1,37 @@
+{
+  "Products": [
+    {
+      "Brand": "Lenovo",
+      "Type": "Computer",
+      "Price": 1500.99,
+      "CategoryId": 1
+    },
+    {
+      "Brand": "HP",
+      "Type": "Computer",
+      "Price": 1700.99,
+      "CategoryId": 1
+    },
+    {
+      "Brand": "Mac",
+      "Type": "Computer",
+      "Price": 1800.99,
+      "CategoryId": 2
+    },
+    {
+      "Brand": "Lenovo",
+      "Type": "Computer",
+      "Price": 1900.99,
+      "CategoryId": 2
+    },
+    {
+      "Brand": "Lenovo",
+      "Type": "Computer",
+      "Price": 2500.99,
+      "CategoryId": 3
+    }
+
+
+
+  ]
+}
